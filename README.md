@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-This is the solution for the problem rock paper scissors in Machine Learning With Python in FreeCodeCamp.
+This is my solution for the problem rock paper scissors in Machine Learning With Python in FreeCodeCamp.
 
 In the file RPS.py you are provided with a function called player. The function takes an argument that is a string describing the last move of the opponent ("R", "P", or "S"). The function should return a string representing the next move for it to play ("R", "P", or "S").
 
